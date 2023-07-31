@@ -1,0 +1,10 @@
+Git init
+Git status
+Git add <file name>
+Git commit -m <message to commit>
+Git restore <file name>
+Git log --oneline
+Git log --oneline --pretty
+Git checkout -b <new branch name>
+Git clone <repo link>
+
