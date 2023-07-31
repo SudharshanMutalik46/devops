@@ -7,4 +7,7 @@ Git log --oneline
 Git log --oneline --pretty
 Git checkout -b <new branch name>
 Git clone <repo link>
+Git remote -v
+Git push origin main
+
 
