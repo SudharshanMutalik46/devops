@@ -9,5 +9,5 @@ Git checkout -b <new branch name>
 Git clone <repo link>
 Git remote -v
 Git push origin main
-
+Git fetch origin main
 
