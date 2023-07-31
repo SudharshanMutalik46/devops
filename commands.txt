@@ -10,4 +10,5 @@ Git clone <repo link>
 Git remote -v
 Git push origin main
 Git fetch origin main
+Git pull origin main
 
