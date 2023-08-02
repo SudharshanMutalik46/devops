@@ -13,4 +13,8 @@ Git fetch origin main
 Git pull origin main
 Git clone <link>
 Git frok <link>
+Git remote add origin https://token@name 
+Git revert <vi>
+vim .gitignore 
+
 
