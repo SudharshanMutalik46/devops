@@ -16,5 +16,7 @@ Git frok <link>
 Git remote add origin https://token@name 
 Git revert <vi>
 vim .gitignore 
+Git merge dev
+Git merge dev --squash
 
 
