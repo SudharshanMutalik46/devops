@@ -11,4 +11,6 @@ Git remote -v
 Git push origin main
 Git fetch origin main
 Git pull origin main
+Git clone <link>
+Git frok <link>
 
