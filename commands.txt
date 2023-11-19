@@ -18,5 +18,6 @@ Git revert <vi>
 vim .gitignore 
 Git merge dev
 Git merge dev --squash
+git remote -v
 
 
