@@ -19,5 +19,8 @@ vim .gitignore
 Git merge dev
 Git merge dev --squash
 git remote -v
+git config --global user.name "SudharshanMutalik46"
+git config --global user.gmail "sudharshanmutalik46@gmail.com"
+
 
 
